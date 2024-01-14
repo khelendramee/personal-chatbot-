@@ -1,0 +1,36 @@
+        body{
+      background-color: #42445A;
+    }
+    #text{
+      height: 50px;
+      overflow: auto;
+    }
+    input{
+      height: 35px;
+      width: 85%;
+      color: #FFFFFF;
+      font-size: 16px;
+      background-color: #614D63;
+      border: 1px solid black;
+      border-radius: 12px;
+    }
+    button{
+      height: 35px;
+      width: 45px;
+      border: 2px solid #872291;
+      border-radius: 12px;
+      position: relative;
+      top: 1.5vh; left: 0vh;
+    }
+   #word_show_1{
+     width: 100%;
+     color: #FFFFFF;
+     font-size: 16px;
+     display: inline-block;
+   }
+   
+  .text_1 {
+    color: #3E0E2B;
+    font-size: 20px;
+    text-align: center;
+  }
